@@ -52,3 +52,19 @@
   - Making permanent notes from your inbox gives you feedback on your writing
   - Making connections to existing permanent notes gives you feedback on gaps
     in your thinking, and your writing.
+
+## Chapter 9 - Separate and Interlocking Tasks
+
+- Writing requires focused, sustained attention
+- Multitasking sucks
+  - It has been shown to reduce productivity, by reducing the quality and
+    quantity of your accomplishments.
+    - When you 'multitask', what you are really doing is constantly shifting
+      your attention between multiple tasks, requiring extra effort, and
+      essentially interrupting any attempt at _focused attention_
+  - Writing is a multi-faceted process with several required tasks (e.g.
+    reading, thinking, gathering insight, typing, editing, etc.)
+- Writing requires a wide gamut of types of attention. From focused, to
+  exploratory, floating. This is the case for any sort of creative or scientific pursuit.
+- To be able to achieve such flexibility, one needs a flexible system that
+  doesn't rely on plans or structure, such as the zettelkasten.
