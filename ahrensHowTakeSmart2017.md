@@ -1,6 +1,6 @@
 # Sönke Ahrens - How To Take Smart Notes - 2017
 
-## Chapter 2 - Everything you need to do:
+## 2 - Everything you need to do:
 
 1. Take Fleeting Notes
    - non permanent notes taken whenever you have an idea or thought, with no worries
@@ -19,7 +19,7 @@
    - Add links when possible
    - Use index notes (notes that link sets of notes)
 
-## Chapter 5 - Writing is the only thing that matters:
+## 5 - Writing is the only thing that matters:
 
 - Pretend that if you don't write it down (in your own words), it doesn't count
   - this is in fact almost the matter of things because
@@ -32,7 +32,7 @@
     - learn efficiently, to reach the phase of 'open questions' more quickly
     - retain information by reflecting on how to synthesize it in your own words.
 
-## Chapter 8 - Let the Work Carry You Forward
+## 8 - Let the Work Carry You Forward
 
 - We are hoping to achieve a dynamic in our workflow that energizes us and
   keeps us engaged. This allows us to be productive with little effort.
@@ -53,7 +53,7 @@
   - Making connections to existing permanent notes gives you feedback on gaps
     in your thinking, and your writing.
 
-## Chapter 9 - Separate and Interlocking Tasks
+## 9 - Separate and Interlocking Tasks
 
 - Writing requires focused, sustained attention, which is a limited resource
   - Multitasking sucks
@@ -99,3 +99,72 @@
 - Breaks are important for the brain because they allow the brain to process
   information, either by removing it or moving it into long-term memory so to
   free up space for new information in our short-term memory buffer.
+
+## 10 - Read for Understanding
+
+### 10.1 - Read With a Pen in Hand
+
+- We should read with the intention to link what we read into our slipbox later.
+- As such we should always take notes while reading, and these notes should be
+  translations of the main ideas of the text into our own words and idea
+  contexts.
+- Handwriting literature notes instead of typing them may help understanding
+  - this is because it is _slower_, and hence the note-taker is forced to
+    synthesize what they have read/heard in their mind before writing it
+    down.
+
+### 10.2 - Keep an Open Mind
+
+- Be wary of _Confirmation Bias_. Unfortunately we automatically gravitate
+  towards what we like, anything that confirms what we already believe. This
+  is the perfect recipe for falling into confirmation bias.
+- The zettelkasten method tackles confirmation bias in 2 ways:
+  1.  ideas are developed bottom-up, meaning there is no opportunity to
+      discriminate against ideas you don't agree with, since you're collecting
+      everything that connects or is open to connection within our slip-box.
+  2.  Because we are optimizing for relevancy, we actively seek de-confirming
+      facts.
+
+### 10.3 - Get the Gist
+
+- By taking notes anytime we read something, we practice getting the gist of
+  things, as we want to get the most from the least amount of effort
+- By practising this, we get better at it.
+
+### 10.4 - Learn to Read
+
+- The more familiar we are with something, the more likely we are to like it
+  and to believe we understand it. Familiarity != understanding, however.
+- Merely reading can fool you into believing you understand the text via the
+  _mere exposure_ effect
+- Instead, we should find a way to _test_ our understanding.
+  - A perfect test for this is attempting to explain what we have just read, in
+    our own words. This is why we should take (rephrased) notes on what we
+    read, while/soon after we read it.
+- Following this, we find that rereading text is also useless, if we don't
+  accompany the rereading with external tests, such as explaining what we're
+  reading in our own words.
+
+### 10.5 - Learn by Reading
+
+- To learn, we need to actively search for old knowledge in our brain and find
+  a way to connect it to the incoming understanding. This requires effort.
+- Physical exercise helps to
+  - transfer knowledge to our long-term memory
+  - reduce stress, hence reducing hormones that hamper learning in the brain.
+- The most successful learning method is _elaboration_
+  - This is similar to our zettelkasten method and boils down to _thinking_
+    about the meaning of what we are reading/listening to:
+    - how does it answer different questions?
+    - how can it be connected to other knowledge?
+
+## 11 - Take Smart Notes
+
+- Experienced readers and successful people read a text and think about how it
+  fits into a bigger picture, an external world.
+  - The text to them is not self contained and is not the be-all end-all on the topic.
+  - They approach the text with questions of their own and compare it to competing approaches.
+  - In a way, they remain sceptical, and are able to spot the limitations and
+    see what it fails to mention.
+
+### 11.1 Make a Career One Note at a Time
