@@ -167,4 +167,39 @@
   - In a way, they remain sceptical, and are able to spot the limitations and
     see what it fails to mention.
 
-### 11.1 Make a Career One Note at a Time
+### 11.2 - Think Outside the Brain
+
+- At page 89 there's a good example of how to go about adding a permanent note
+  to the zettelkasten. (Very important, go see)
+
+### 11.3 - Learn by not Trying
+
+- There's a theory that forgetting is not loss of memory, but simply the
+  unconscious suppression of seemingly unimportant memories, which stay
+  stored in the back of our minds.
+- This is useful, because remembering everything would mean being bombarded by
+  noise of irrelevant and unnecessary memories, making it difficult to focus
+  on what the gist, the more important stuff, is.
+- As such, remembering is simply the process of finding a stored memory. And
+  learning is the process of ensuring that the right cues trigger the right
+  memory, by ensuring that the right connections exist between topics in our
+  brain.
+- The most effective learning is hence not optimizing storage space, but
+  instead optimizing the quantity and quality of meaningful connections to
+  a wide variety of contexts for a given piece of information.
+- This way of learning fosters _understanding_
+- Too much order hampers learning. This is why the zettelkasten is built
+  bottom-up, with the possibility of adding connections between heterogeneous
+  clusters of notes.
+
+### 11.4 - Adding Permanent Notes to the Slip-Box
+
+First we write the notes, then we have to worry about adding them to the
+Zettelkasten:
+
+1. If working with a physical zettelkasten, place the note behind the most
+   recent note or behind the note it directly refers to if it does.
+2. Add links to the note, and links in the note to other notes.
+3. Ensure the note can be found from the index.
+4. Focus on building a network of knowledge in your mind as you skim through
+   the zettelkasten.
