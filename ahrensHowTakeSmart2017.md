@@ -203,3 +203,58 @@ Zettelkasten:
 3. Ensure the note can be found from the index.
 4. Focus on building a network of knowledge in your mind as you skim through
    the zettelkasten.
+
+## 12 - Develop Ideas
+
+- Don't worry about writing complete notes: only write what helps thinking.
+- structure emerges from the network clusters that form naturally when adding
+  references between notes. This is why references are so important.
+
+### 12.1 - Develop Topics
+
+- We use indexes as lists of entry points (links to notes with further links)
+  to the knowledge-base. We shouldn't worry about the index too much, and
+  accept that a complete overview of the zettelkasten is impossible, and the
+  wrong way to think about it anyway.
+- These entry points should be links to notes providing an ever-changing
+  overview of a specific topic - a structure note.
+  - If this structure becomes outdated, we can make a new note and replace the
+    link in the index.
+- When adding tags, ensure these are context-specific, and chosen with an eye
+  towards the topics you are currently interested in. Tags should aid you in
+  _retrieval_, not archival. See page 102.
+
+### 12.2 - Make Smart Connections
+
+- There are 2 main types of connections:
+  - Connections to notes from an index or from a structure note.
+  - Direct note-to-note connections.1
+- When searching for connections to add to a new note, we need to literally go
+  through the zettelkasten looking for these connections. Doing this
+  literally rather than in your head makes you more likely to find real
+  connections instead of forcing them.
+
+## 13 - Share Your Insight
+
+### 13.2 - From Top Down to Bottom Up
+
+- The more confident we are with previously encountered ideas and knowledge,
+  the more open we become to new ideas
+  - This is because we are comfortable with being playful with the original
+    ideas, and are flexible enough to think about their shortcomings.
+
+## 14 - Make It a Habit
+
+- Good intentions are not enough for the long-run.
+- We should accept the reality that deep behavioural change is very difficult
+  to achieve.
+- What we need instead is to develop habits and routines strategically.
+  - This means building habits step-by-step, in such a way that each step leads
+    to the next.
+
+## Afterword
+
+- The tunnel effect: we tend to stick to familiar routines when under stress,
+  even when these routines caused the issues in the first place
+- Read with a pen in your hand, make permanent notes from what you read and
+  think and make connections between these permanent notes
