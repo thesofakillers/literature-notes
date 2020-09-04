@@ -59,3 +59,24 @@ year = 2019
 - perform hyperparameter optimization or simply investigate utilizing
   a different NN architecture such as GANs.
 - address issue of borders of images not being accounted for
+
+## Appendices
+
+### A - Related Deep Learning Work
+
+- work in precipitation nowcasting can be split into two categories
+  - those who model time explicitly using RNNs
+  - those who rely on image-to-image translations via convolution
+
+### B - Problem Formulation
+
+- Ideally, one would estimate the probability distribution of rain quantities
+  for each pixel using Bayesian methods.
+  - these are however unfeasible for large quantities of data
+- Alternatively, one could perform regression to estimate the instantaneous
+  rate of rain at each pixel.
+  - However this quantity would have little value as the same instatneous rate
+    could be the result of various phenomena, hence containing little
+    predictive information.
+- As such, authors settled on probability distribution of ranges of
+  precipitation rate.
