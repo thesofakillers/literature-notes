@@ -1,7 +1,7 @@
 +++
 title = "Dune" 
 authors = "Frank Herbert" 
-Year = 1965
+year = 1965
 +++
 
 - **Duke Leto Atreides**: Duke of the new Zealand looking planet Caladan. Is transferred with his family to the desert planet of Arrakis as leader. 

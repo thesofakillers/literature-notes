@@ -1,7 +1,7 @@
 +++
 title = "What Is Differentiable Programming?"
 authors = "Mark Innes"
-date = 2019
+year = 2019
 +++
 
 Differentiable Programming is a form of Machine Learning that takes an opposing
