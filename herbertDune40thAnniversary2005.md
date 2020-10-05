@@ -1,7 +1,7 @@
 +++
 title = "Dune" 
 authors = "Frank Herbert" 
-Year = 1965
+year = 1965
 +++
 
 ## Characters, Entities and Things 
