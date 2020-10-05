@@ -4,21 +4,23 @@ authors = "Frank Herbert"
 year = 1965
 +++
 
+WARNING: SPOILERS 
+
 ## Characters, Entities and Things 
 
-- **Duke Leto Atreides**: Duke of the new Zealand looking planet Caladan. Is transferred with his family to the desert planet of Arrakis as leader. 
+- ~~**Duke Leto Atreides**~~: Duke of the new Zealand looking planet Caladan. Is transferred with his family to the desert planet of Arrakis as leader. Dies in a kamikaze attempt on the Baron through his tooth gas trap. 
 - **Lady Jessica**: Duke Let's Wife, a Bene Gesserit. 
 - **The Bene Gesserit**: ancient order of women who practice meditation and mind training
 -  **Paul Leto Atreides**: Son of Duke Leto and Lady Jessica. Heir to Duke Leto. A Mentat in training. 
 - **The Harkonnens**: Nemesis family of the Atreides, who seem to have a "black market" control of the planet Arrakis. Have been stockpiling spice for decades 
--  **Baron Vladimir Harkonnen**: The leader of the Harkonnens 
+-  **Baron Vladimir Harkonnen**: The leader of the Harkonnens. Is so fat he needs suspenders to counteract gravity. Appears to be a homosexual pedophile keen on Paul. 
 - **CHAOM**: some overlooming company that seems to have large power across the Dune universe, controlling the spice market
 - **Melange**: A spice/drug which allows its users to see through time. Can only be mined on Arrakis 
 - **Mentat**: A human that essentially acts as a personal AGI assistant. Trained to be replacements for what we use computers for. 
--  **Piter De Vries**: Mentat of Baron Harkonnens. Of Fremen origins
+- ~~**Piter De Vries**~~: Mentat of Baron Harkonnens. Of Fremen origins. Is killed by the gas as a casualty when Duke Leto secretes it in an attempt to kill the Baron Harkonnen. 
 -  **Thufir Hawat**: Mentat of the Atreides
 - **Feyd-Rautha Harkonnen**: Nephew and heir of Baron Harkonnen
-- **Dr Wellington Yueh**: Personal Physician of the Atreides. Betrays the family, on request of the Harkonnens who threaten the life of his partner Wanna. Plots to use the Duke to Kill Baron Harkonnen 
+- ~~**Dr Wellington Yueh**~~: Personal Physician of the Atreides. Betrays the family, on request of the Harkonnens who threaten the life of his partner Wanna (who, unbeknownst to him, they've already killed). Plots to use the Duke to Kill Baron Harkonnen. Is killed by Piter upon delivering his half of the deal. 
 - **Wanna Yueh**: partner of Dr Yueh. A Bene Gesserit 
 - **Fremen**: Renegade people of the Arrakis desert, who hate the Harkonnens, who have historically hunted and tormented them. Their eyes are completely blue, due to saturation of the blood with melange. Potentially as fearce as Sardaukar 
 - **Gurney Halleck**: Hired sword (bodyguard) of the Atreides, teaches combat to Paul
@@ -36,7 +38,10 @@ year = 1965
 - **Soo-Soo**: a Guild Bank representative who Jessica suspects is a Harkonnen agent. A financial advisor to the Water Peddlers Union
 - ~~**Kinet**~~: deaf Harkonnen henchman. Killed by Paul in his escape with Jessica 
 - ~~**Czigo**~~: Harkonnen henchman. Killed by Paul in his escape with Jessica 
-- **Fremkit**: a desert survival kit of Fremen origins 
+- **Fremkit**: a desert survival kit of Fremen origins
+- ~~**Umman Kadu**~~: Captain of the Baron's personal guard. Dues as casualty in Duke's attempt in killing the Baron with his gas tooth. 
+- **Iakin Nefud**: Guard corporal of the Baron. Addicted to semuta. Is made captain of the Baron's personal guard upon Umman Kadu's death
+- **Semuta**: a drug-music combination 
 
 ## General Notes 
 
@@ -80,7 +85,13 @@ Paul and Jessica are kidnapped by the Harkonnens, and sentenced to be dropped (b
 
 In fact we discover that Yueh purposely hid a Fremkit and the Ducal signet ring in the ornithopter before its departure with Paul and Jessica 
 
+Meanwhile, the Baron has regained control of Arrakis and is finishing off the remaining men of Duke Leto
 
+Upon dying, Duke Leto is left with a thought: The day the flesh shapes and the flesh the day shapes. 
+
+The Baron survives the Duke's gas trap via his shield and Piter's gasp. 
+
+The Sardaukar, i.e. the emperor, collaborate with the Harkonnens for the elimination of the Atreides from Arrakis. [Why did the emperor send the Atreides to Arrakis, just have them removed by the Harkonnens?](https://scifi.stackexchange.com/questions/15057/why-did-the-emperor-send-the-atreides-to-arrakis-then-the-sardaukar-to-remove-t) To protect his power and control. Politics. Plots within plots. 
 
 ## Interesting Quotes
 
