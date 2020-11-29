@@ -4,12 +4,6 @@ authors = "Jeremy Graves, John Yates, and Matthew Immergut"
 year = 2017
 +++
 
-## Glossary
-
-- **Awakening**: To Awaken means understanding reality as it is, rather than as
-  we inaccurately perceive it and believe it to be.
-- **Meditation**: The systematic process of training the mind
-
 ## Chapter Notes
 
 ### Introduction
@@ -64,4 +58,9 @@ your meditation.
   explicitly monastic living, this guide also considers those with more typical
   lifestyles, such as having a job, a family, and a life outside of meditation.
 
+## Glossary
+
+- **Awakening**: To Awaken means understanding reality as it is, rather than as
+  we inaccurately perceive it and believe it to be.
+- **Meditation**: The systematic process of training the mind
 
