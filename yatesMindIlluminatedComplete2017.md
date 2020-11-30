@@ -68,6 +68,7 @@ your meditation.
 - Both vipassanā and śamatha are necessary for Awakening.
 
 <!-- prettier-ignore-start -->
+```
                             +---------+
  +----------------+         | śamatha +----------------+
  |                |         +---------+                |
@@ -81,6 +82,7 @@ your meditation.
  |                |       +-------------+              |
  +----------------+       |  vipassanā  +--------------+
                           +-------------+
+```
 <!-- prettier-ignore-end -->
 
 - Śamatha is characterized by:
