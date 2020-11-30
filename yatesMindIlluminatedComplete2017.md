@@ -128,6 +128,67 @@ your meditation.
 
 ### An overview of the 10 Stages
 
+- The progress through the 10 stages of meditation practice is marked by Four
+  Milestone Achievements, dividing the Ten Stages into four distinct parts.
+
+#### How the Process Unfolds
+
+- Each stage is defined in terms of the skills that the practitioner should
+  master.
+  - only once the skills of a given stage are _mastered_ should the practitioner
+    move on to the next stage.
+    - this is because skills of each stage build gradually on those from
+      previous stages.
+    - As such there should be no skipping of stages or shortcuts
+      - diligence is all you need.
+- It will occur that you will find yourself accidentally jumping in between
+  stages as you begin, or practising several stages at the same time.
+  - this is perfectly normal
+  - the important thing is to practice according to whatever is happening in
+    your meditation _presently_.
+    - don't force moving back up or moving back down.
+- The techniques across various stages are similar, however the goals are not.
+- While isolated experiences of more advanced stages can happen at lower stages,
+  these should not be taken as signals that one is ready to advance to higher
+  stages until they can be experienced regularly. Until then, use these glimpses
+  as inspiration.
+
+#### The Rate of Progress through the Ten Stages
+
+- It is possible to master the Ten Stages within a few months or years
+  - what you need
+    - regular daily sitting practice of one or two hours
+    - some supplemental practices described in the appendices (e.g. walking
+      meditation)
+  - daily practice combined with occasional longer periods will be enough for
+    success.
+- Life and stressful events can affect the process, of course.
+- It is important not to fall victim to the problem of compartmentalization:
+  - there is a tendency in beginner practitioners to separate meditation from
+    the rest of their lives
+  - Instead, the skills and insights we learn should infuse daily life for
+    optimized progress.
+- The most important factor is clear understanding of each Stage, as this will
+  allow you to practice at the appropriate level.
+
+#### The Ten Stages of Meditative Training
+
+- **Stage 1: Establishing a Practice**. Mastery of this stage means never
+  missing a daily practice session. It is a stage all about _diligence_.
+- **Stage 2: Interrupted Attention and Overcoming Mind-Wandering.** Mastery of
+  this stage means being able to sustain attention to the meditation object
+  (e.g. your breath) for minutes, while interruptions only last a few a seconds.
+  Attention is easily captured by distractions, that lead to forgetting and
+  result in mind-wandering.
+- **Stage 3: Extended Attention and Overcoming Forgetting.** Similar to stage 2,
+  but mind-wandering becomes shorter and shorter until it stops entirely. The
+  challenge then is to tackle _forgetting_ and avoiding sleepiness. Mastery is
+  achieved when one rarely forgets the breath and does not fall asleep.
+
+See section in book - useful as a reminder of the big picture.
+
+#### Cultivating the Right Attitude and Setting Clear Intentions
+
 ## Glossary
 
 - **Awakening**: To Awaken means understanding reality as it is, rather than as
