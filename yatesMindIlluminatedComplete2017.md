@@ -89,7 +89,7 @@ your meditation.
   - effortlessly stable attention (samādhi)
   - powerful mindfulness,
   - joy
-  - tranquillity
+  - tranquility
   - equanimity: a state of psychological stability and composure which is
     undisturbed by experience of or exposure to emotions, pain, or other
     phenomena that may cause others to lose the balance of their mind.
@@ -177,17 +177,80 @@ your meditation.
 
 - **Stage 1: Establishing a Practice**. Mastery of this stage means never
   missing a daily practice session. It is a stage all about _diligence_.
+
 - **Stage 2: Interrupted Attention and Overcoming Mind-Wandering.** Mastery of
   this stage means being able to sustain attention to the meditation object
   (e.g. your breath) for minutes, while interruptions only last a few a seconds.
   Attention is easily captured by distractions, that lead to forgetting and
   result in mind-wandering.
+
 - **Stage 3: Extended Attention and Overcoming Forgetting.** Similar to stage 2,
   but mind-wandering becomes shorter and shorter until it stops entirely. The
   challenge then is to tackle _forgetting_ and avoiding sleepiness. Mastery is
   achieved when one rarely forgets the breath and does not fall asleep.
 
-See section in book - useful as a reminder of the big picture.
+- **Milestone 1: Continuous Attention to The Meditation Object.** You can now do
+  something that no ordinary, untrained person can.
+
+- **Stage 4: Continuous Attention and Overcoming Gross Distraction and Strong
+  Dullness.** A _gross distraction_ is one that pushes the meditation object
+  into the background of attention. _Strong dullness_ is the state in which the
+  mind grows overly calm, causing the meditation object to fade or become
+  distorted. This stage is about overcoming gross distraction and strong
+  dullness by making use of _introspective awareness_, until they no longer are
+  obstacles, hence mastering the stage.
+
+- **Stage 5: Overcoming Subtle Dullness and Increasing Mindfulness**: Here the
+  practitioner is still vulnerable to _subtle dullness_ that can make the breath
+  sensations less vivid and cause _peripheral awareness_ to fade. Not
+  recognizing this can lead to overestimating one's abilities and prematurely
+  attempting higher stages. This stage is mastered when the practitioner can
+  sustain and increase the power of their mindfulness in every session.
+
+- **Stage 6: Subduing Subtle Distraction.** The practitioner masters this stage
+  by managing to subdue subtle distractions until they have almost entirely
+  disappeared, allowing the practitioner to achieve _exclusive or single-pointed
+  attention_. With this, the practitioner aims to develop _metacognitive
+  introspective awareness_.
+
+- **Milestone Two: Sustained Exclusive Focus of Attention.** The practitioner's
+  attention no longer alternates back and forth between distractions and the
+  meditation object. The practitioner can focus on the latter exclusively,
+  without any dullness. The practitioner is aware of their state of mind in
+  every moment, while still focusing on their breath.
+
+- **Stage Seven: Exclusive Attention and Unifying the Mind.** The practitioner
+  masters this stage once they achieve exclusive attention and powerful
+  mindfulness without any effort.
+
+- **Milestone Three: Effortless Stability of Attention.** The state of mind
+  achieved with mastering stage seven is known as _mental pliancy_, occurring
+  because of the _complete pacification of the discriminating mind_. The mind
+  functions more uniformly, as a single unit, rather than struggling against
+  itself, in what can be referred to as the _unification of mind_.
+
+- **Stage Eight: Mental Pliancy and Pacifying the Senses.** The mental pliancy
+  achieved is limited by physical pain and discomfort. This stage is mastered
+  when the practitioner achieves _pacification of the senses_, _physical
+  pliancy_. Here the five senses and the mind sense temporarily become quiet,
+  and the practitioner experiences the full arising of _meditative joy_.
+
+- **Stage Nine: Mental and Physical Pliancy and Calming the Intensity of
+  Meditative Joy**. The intensity of meditative joy can perturb the mind. This
+  stage is mastered when the practitioner manages to consistently evoke mental
+  and physical pliancy, while also maintaining a mature meditative joy
+  characterised by profound tranquility and equanimity.
+
+- **Stage Ten: Tranquility and Equanimity.** Stage Ten is mastered once all the
+  qualities of samatha, so far experienced exclusively during the meditation
+  sessions, linger and persist for many hours after each meditation session.
+  They become the normal condition of the mind, which is described as
+  _unsurpassable_.
+
+- **Milestone Four: Persistence of the Mental Qualities of an Adept.** The
+  practitioner's life is imbued with effortlessly stable attention, mindfulness,
+  joy, tranquility and equanimity, qualities that linger and persist from each
+  meditation session.
 
 #### Cultivating the Right Attitude and Setting Clear Intentions
 
@@ -197,7 +260,7 @@ See section in book - useful as a reminder of the big picture.
   we inaccurately perceive it and believe it to be.
 - **Meditation**: The systematic process of training the mind
 - **Bodhi**: Pali and Sanskrit word for Awakening
-- **śamatha**: serenity, tranquillity, quiescence.
+- **śamatha**: serenity, tranquility, quiescence.
 - **vipassanā**: insight
 - **samādhi**: concentration, stable attention
 - **sati**: mindfulness
