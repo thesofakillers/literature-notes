@@ -68,7 +68,7 @@ your meditation.
 - Both vipassanā and śamatha are necessary for Awakening.
 
 <!-- prettier-ignore-start -->
-```
+```plaintext
                             +---------+
  +----------------+         | śamatha +----------------+
  |                |         +---------+                |
@@ -254,6 +254,8 @@ your meditation.
 
 #### Cultivating the Right Attitude and Setting Clear Intentions
 
+Bookmark
+
 ## Glossary
 
 - **Awakening**: To Awaken means understanding reality as it is, rather than as
@@ -268,3 +270,5 @@ your meditation.
 ## Appendix summaries
 
 ### Walking Meditation
+
+Bookmark
