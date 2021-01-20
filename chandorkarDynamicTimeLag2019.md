@@ -24,4 +24,10 @@ year = 2020
   approach is the segmentation of the source series into disjoint units (e.g.
   sentences, words or other tokens, in the case of NLP)
 
+## Misc Notes
 
+- The authors outline the problem as a pair of _cause_ $x(t)$ and _effect_
+  $y(t + \delta t)$ time series where both $y$ and $/delta t$ depend on $x(t)$.
+- For the purpose of my research, $\delta t$ does not necessarily depend on
+  $x(t)$, but rather some third time series $z(t)$, so I don't know how
+  relevant this paper is.
