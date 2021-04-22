@@ -65,7 +65,7 @@ Often these blocks can facilitate information storage due to higher efficiency.
 
 The vanishing gradient is not completely resolved with memory cells. If a memory
 cell's input are mostly negative or mostly positive, its internal state will
-tend to drift away, causing the derivative of the state activation function to
+tend to drift away, causing the derivative of memory cell scaling function to
 become increasingly small, finally causing the gradient to vanish.
 
 The simple solutions the authors propose is to initially bias the input gate
