@@ -48,9 +48,9 @@ _memory cell_. In particular the CEC is augmented with
 - a multiplicative output gate to protect other units from currently irrelevant
   memory stored in the unit.
 
-These gates can open or close access to the CEC. The gates are units of their
-own, and as such their functions are learnable. The input unit will have to
-learn when to release errors, the output unit will have to learn when to trap
+These gates can open or close access to the cell state. The gates are units of
+their own, and as such their functions are learnable. The input unit will have
+to learn when to release errors, the output unit will have to learn when to trap
 errors.
 
 ### Memory Cell Blocks
